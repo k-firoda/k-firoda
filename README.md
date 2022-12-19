@@ -16,7 +16,7 @@
 
 <h2 align="center"> <img src="https://media3.giphy.com/media/8qOVVhycI9SgeYn3zd/giphy.gif?cid=ecf05e4768wb07q3d2xt2txcih0p21ra626uyup3f13ig250&rid=giphy.gif&ct=g" width="30"> About me 📄</h2>
 
-I am a Full Stack Developer <img src="https://media0.giphy.com/media/IhDjGtQLzpxLETw2Jc/giphy.gif?cid=ecf05e476d08mlx1u4gje8fu9wvm5g8xgv1dpyllea4ymzz5&rid=giphy.gif&ct=g" width="30"> from India.
+I am a Full Stack Developer 👩‍💻<img src="https://media0.giphy.com/media/IhDjGtQLzpxLETw2Jc/giphy.gif?cid=ecf05e476d08mlx1u4gje8fu9wvm5g8xgv1dpyllea4ymzz5&rid=giphy.gif&ct=g" width="30"> from India.
 
 - 🔭 I’m currently working on Full Stack Developer skills.
 
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media0.giphy.com/media/IhDjGtQLzpx
 
 <div align="center">
   
-  <p> Tech I know. </p>
+  <p> Tech I know. ⚙️ </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" height="50" width="50" />
@@ -52,7 +52,7 @@ I am a Full Stack Developer <img src="https://media0.giphy.com/media/IhDjGtQLzpx
 <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/wordpress/wordpress-original.svg" height="50" width="50" />
 
-  <p> Tech I am Exlporing. </p>
+  <p> Tech I am Exlporing. 🏊 </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React Redux" height="50" width="50" />
@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media0.giphy.com/media/IhDjGtQLzpx
 
 ---
 <div align="center">
-<h2>Achievements</h2>
+<h2>Achievements 🎓</h2>
 <a href="https://www.credly.com/earner/earned/badge/0a01036b-271d-4ac5-a6be-d445d41599d1"><img src="https://images.credly.com/size/680x680/images/49c40b34-794d-41c6-ace2-ec9a53a175de/Application_Development_using_Microservices_and_Serverless.png" height=120 width=120 /> </a>
 <a href="https://www.credly.com/earner/earned/badge/717f4b59-0aef-412c-9115-7969e4487b25"><img src="https://images.credly.com/size/680x680/images/ad39795a-4538-45e6-90fe-fd137c0c6651/image.png" height=120 width=120 /> </a>
 <a href="https://www.credly.com/earner/earned/badge/e0f13b95-c014-454c-9306-cc3e0ea92c85"><img src="https://images.credly.com/size/680x680/images/73c1a67e-b3e8-44f1-a049-a91532e4f19c/Developing_Cloud_Apps_with_Node.js_and_React.png" height=120 width=120 /> </a>
