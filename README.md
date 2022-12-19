@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center"> <img src="https://media3.giphy.com/media/8qOVVhycI9SgeYn3zd/giphy.gif?cid=ecf05e4768wb07q3d2xt2txcih0p21ra626uyup3f13ig250&rid=giphy.gif&ct=g" width="30"> About me 📄</h2>
+<h2 align="center"> About me 📄</h2>
 
 I am a Full Stack Developer 👩‍💻 from India.
 
