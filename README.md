@@ -31,7 +31,7 @@ I am a Full Stack Developer 👩‍💻 from India.
 
 <div align="center">
   
-  <p> Tech I know. ⚙️ </p>
+  <h3> Tech I know. ⚙️ </h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" height="50" width="50" />
@@ -52,9 +52,8 @@ I am a Full Stack Developer 👩‍💻 from India.
 <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/wordpress/wordpress-original.svg" height="50" width="50" />
 
-  <p> Tech I am Exlporing. 🏊 </p>
-  
- ***
+  <h3> Tech I am Exlporing. 🏊 </h3>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React Redux" height="50" width="50" />
