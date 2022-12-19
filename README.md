@@ -54,7 +54,7 @@ I am a Full Stack Developer 👩‍💻 from India.
 
   <p> Tech I am Exlporing. 🏊 </p>
   
-  ---
+ ***
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React Redux" height="50" width="50" />
