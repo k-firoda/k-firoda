@@ -18,7 +18,7 @@
 
 I am a Full Stack Developer 👩‍💻 from India.
 
-- 🔭 I’m currently working on Full Stack Developer skills.
+- 🔭 I’m currently working on Cloud Native Full Stack Developer skills.
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, Redux, MongoDB, Data Structures and Algorithms, System Design, Database Management System, Docker , kubernetes , devops , fundamentals of clouds(Azure ,Aws ,Google) ,Terraform ,Python , Django** 
 
