@@ -84,10 +84,10 @@ I am a Full Stack Developer <img src="https://media0.giphy.com/media/IhDjGtQLzpx
 <h2 align="center"> :fire: My Stats </h2>
 
 <div align="center">
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=k-firoda&show_icons=true&locale=en&theme=highcontrast" alt="k-firoda" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=k-firoda&show_icons=true&locale=en&theme=lightcontrast" alt="k-firoda" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=k-firoda&theme=highcontrast" alt="k-firoda" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=k-firoda&theme=lightcontrast" alt="k-firoda" /></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-firoda&layout=compact&theme=vision-friendly-dark" alt="k-firoda" /></p> 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-firoda&layout=compact&theme=vision-friendly-light" alt="k-firoda" /></p> 
 
 </div>
