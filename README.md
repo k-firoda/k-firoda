@@ -31,7 +31,7 @@ I am a Full Stack Developer 👩‍💻 from India.
 
 <div align="center">
   
-  <h3> Tech I know. ⚙️ </h3>
+  <p> Tech I know. </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" height="50" width="50" />
@@ -51,17 +51,16 @@ I am a Full Stack Developer 👩‍💻 from India.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain-wordmark.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/wordpress/wordpress-original.svg" height="50" width="50" />
-
-  <h3> Tech I am Exlporing. 🏊 </h3>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" height="50" width="50" />
+
+  <p> Tech I am Exlporing. </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React Redux" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="Redis" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50" width="50" />
 <img src="https://user-images.githubusercontent.com/76507095/191493842-216d99e9-9438-4bf2-a350-300294204384.jpg" alt="Cypress" height="50" width="50" />
 <img src="https://user-images.githubusercontent.com/76507095/191493904-d3a9f032-543d-4cc7-9d00-63dac6e3877c.png" alt="swaggerAPI" height="50" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" height="50" width="50" />
 </div>
 
 ---
