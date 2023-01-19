@@ -84,10 +84,10 @@ I am a Full Stack Developer 👩‍💻 from India.
 <h2 align="center"> :fire: My Stats </h2>
 
 <div align="center">
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=k-firoda&show_icons=true&locale=en&theme=light" alt="k-firoda" /></p>
+<p align="center"><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=k-firoda&show_icons=true&locale=en&theme=light" alt="k-firoda" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=k-firoda&theme=light" alt="k-firoda" /></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-firoda&layout=compact&theme=light" alt="k-firoda" /></p> 
+<p align="center"><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=k-firoda&layout=compact&theme=light" alt="k-firoda" /></p> 
 
 </div>
