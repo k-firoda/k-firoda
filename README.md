@@ -57,6 +57,7 @@ I am a Full Stack Developer 👩‍💻 from India.
 
   <p> Tech I am Exlporing. </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React Redux" height="50" width="50" />
+ <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" alt="Redis" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="50" width="50" />
 <img src="https://user-images.githubusercontent.com/76507095/191493842-216d99e9-9438-4bf2-a350-300294204384.jpg" alt="Cypress" height="50" width="50" />
