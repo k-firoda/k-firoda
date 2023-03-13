@@ -81,6 +81,7 @@ I am a Full Stack Developer 👩‍💻 from India.
 <a href="https://www.credly.com/earner/earned/badge/d35b3b60-c152-4cf3-9d78-736d0316e53e"><img src="https://images.credly.com/size/680x680/images/2d178f89-4816-4190-8c4a-3bdbfec9db01/Dev_Skills_Network_-_Cloud_Computing_Core.png" height=120 width=120 /> </a>
 <a href="https://www.credly.com/earner/earned/badge/d5b70a2a-1fab-4c9b-a6dd-881d7f534fc1"><img src="https://images.credly.com/size/680x680/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png" height=120 width=120 /> </a>
 <a href="https://www.credly.com/earner/earned/badge/f1317684-f4cb-48c3-bc77-a6963734879f"><img src="https://images.credly.com/size/680x680/images/23859131-d0ff-4f44-900f-bac86165b941/image.png" height=120 width=120 /> </a>
+<a href="https://www.credly.com/badges/6382fed6-f94d-4333-a5a6-2876176e2100"><img src="https://images.credly.com/size/680x680/images/771cff46-3573-4d12-bfd8-528745f00957/GCC_badge_PGM_1000x1000.png" height=120 width=120 /> </a>
 
 </div>
 
